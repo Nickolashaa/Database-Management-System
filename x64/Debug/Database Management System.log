@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Grace\source\repos\Database Management System\Source.cpp(150,11): warning C4476: "printf": неизвестный символ поля типа "(" в описателе формата
+C:\Users\Grace\source\repos\Database Management System\Source.cpp(350,10): warning C4476: "printf": неизвестный символ поля типа "(" в описателе формата
+C:\Users\Grace\source\repos\Database Management System\Source.cpp(464,9): warning C4129: S: неизвестная escape-последовательность
+  Database Management System.vcxproj -> C:\Users\Grace\source\repos\Database Management System\x64\Debug\Database Management System.exe
